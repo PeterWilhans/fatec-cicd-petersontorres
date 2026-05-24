@@ -7,8 +7,8 @@
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi desenvolvido como atividade prática da FATEC com o objetivo de demonstrar a utilização de uma pipeline CI/CD integrada ao **GitHub Actions** e à ferramenta de análise estática de segurança **CodeQL**.
-
+Este projeto foi desenvolvido como atividade prática da FATEC com o objetivo de demonstrar a utilização de uma pipeline CI/CD integrada ao **GitHub Actions** e  à ferramenta de análise estática de segurança **CodeQL**.
+ 
 O foco principal foci validar como o CodeQL identifica vulnerabilidades em aplicações Python durante o processo automatizado de integração contínua.
 
 ---
